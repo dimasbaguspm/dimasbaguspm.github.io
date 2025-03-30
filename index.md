@@ -1,3 +1,3 @@
-# dimasbaguspm.github.io
+# dimasbaguspm
 
 ## foo
